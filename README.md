@@ -40,7 +40,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Open **http://localhost:5173** — the app launches with the welcome screen and 5 demo queries.
+Open **(https://mumzworld-roan.vercel.app/)** — the app launches with the welcome screen and 5 demo queries.
 
 ### 3. Try the 5 demo queries (the Loom walkthrough)
 
